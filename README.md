@@ -1,9 +1,6 @@
 ## Gravothermal SIDM C Solver
 
-This code is based on "GravothermalSIDM" by Kimberly Boddy (https://github.com/kboddy/GravothermalSIDM). If you use this code, please cite at least:
-
-* [Universal Gravothermal Evolution of Isolated Self-Interacting Dark Matter Halos for Velocity-Dependent Cross Sections (arXiv: 2204.06568)](https://arxiv.org/abs/2204.06568)
-* [On the Late-Time Evolution of Velocity-Dependent Self-Interacting Dark Matter Halos (arXiv: 2312.09296)](https://arxiv.org/abs/2312.09296)
+This C code solves the gravothermal evolution of self-interacting dark matter halos. It is based on the public Python implementation presented in https://github.com/kboddy/GravothermalSIDM.
 
 
 
