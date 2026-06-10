@@ -1,6 +1,6 @@
 ## Gravothermal SIDM C Solver
 
-This C code solves the gravothermal evolution of self-interacting dark matter halos. It is based on the public Python implementation presented in https://github.com/kboddy/GravothermalSIDM.
+This C code solves the fluid equations for gravothermal evolution of self-interacting dark matter halos. It is based on the public Python implementation presented in https://github.com/kboddy/GravothermalSIDM.
 
 
 
